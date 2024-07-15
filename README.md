@@ -6,6 +6,7 @@ if the save system don't work as well insert the file eplorer location of the Sa
 example:
 
 def save():
+    
     f = open("INSERT HERE THE LOCATION OF SAVEMINIGAME.PY", "w")
 
     f.write("Moves = " + str(moves) + "\n")
