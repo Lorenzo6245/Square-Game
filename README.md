@@ -1,7 +1,7 @@
 ATTENTION!!!
 This program run only on visual studio code and not on Github codespace because it use a library called keyboard (you can install it by digiting on your prompt: pip install keyboard)
 
-if the save system don't work as well insert the file eplorer location of the SaveMiniGame.py file
+if the save system don't work as well insert the file explorer location of the SaveMiniGame.py file
 
 example:
 
